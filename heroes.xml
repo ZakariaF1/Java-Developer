@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.1" class="java.beans.XMLDecoder">
+ <object class="Java_Data_Access_and_ORM.model.Hero">
+  <void property="life">
+   <int>100</int>
+  </void>
+  <void property="mana">
+   <int>100</int>
+  </void>
+  <void property="name">
+   <string>Batman</string>
+  </void>
+ </object>
+ <object class="Java_Data_Access_and_ORM.model.Hero">
+  <void property="life">
+   <int>999</int>
+  </void>
+  <void property="mana">
+   <int>999</int>
+  </void>
+  <void property="name">
+   <string>Chuck Norris</string>
+  </void>
+ </object>
+</java>
