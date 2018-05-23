@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: red;
+}
+.button {
+    -fx-background-color: blue;
+}
+
+.buttonviolet {
+    -fx-background-color: violet;
+    -fx-background-radius: 10px;
+}
+
